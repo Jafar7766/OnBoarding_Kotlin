@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    <string name="first_slide">Choose Your Product</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description">Onboarding Screen Android Studio | Onboarding Walkthrough Intro Screen Layout with ViewPager and Relativelayout.
+    </string>
+</resources>
